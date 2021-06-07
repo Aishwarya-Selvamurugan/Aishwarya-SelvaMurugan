@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋 I am Aishwarya Selvamurugan!
+### I'm interested in Programming
+### I'm currently learning Python
+### Studying Bachelor of Engineering in Computer Science 
 
 <!--
 **Aishwarya-Selvamurugan/Aishwarya-SelvaMurugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
