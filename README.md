@@ -1,6 +1,6 @@
 ### Hi 👋 I am Aishwarya Selvamurugan!
 ### I'm interested in Programming
-### I'm currently learning Python
+### I'm currently learning Java
 ### Studying Bachelor of Engineering in Computer Science 
 
 <!--
