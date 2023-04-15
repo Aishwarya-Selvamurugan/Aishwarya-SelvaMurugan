@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Selvamurugan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Passionate about Machine Learing, and a Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya-selvamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya-selvamurugan" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap,JavaScript**
+- 🌱 I’m currently learning **Machine Learning models**
 
-- 💬 Ask me about **Java,C,Python.**
+- 💬 Ask me about **Java,C,Python,Web development**
 
 - 📫 How to reach me **aishwarya.s2020cse@sece.ac.in**
 
