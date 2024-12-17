@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java,C,Python,Web development**
 
-- 📫 How to reach me **aishwarya.s2020cse@sece.ac.in**
+- 📫 How to reach me **aishh2305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
